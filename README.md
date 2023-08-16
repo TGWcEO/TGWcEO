@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TGWcEO or Mr. Wright.
-- 👀 I’m interested in learning as much as possible about software engineering as possible.
+- 👀 I’m interested in learning as much as possible about computer operation and software engineering.
 - 🌱 I’m currently learning javascript, HTML and CSS.
 - 💞️ I’m looking to collaborate on website and web app ideas and builds.
 - 📫 How to reach me: Email is best AriAuto@yahoo.com
